@@ -65,7 +65,7 @@ ZSH_SEVEN_EIGHTHS='⅞'
 
 
 This symbols taken from [figures](https://github.com/sindresorhus/figures),
-but their names changet to CONSTANT_CASE
+but their names changed to CONSTANT_CASE
 
 ### 🏠 [Homepage](https://github.com/zpm-zsh/figures)
 
