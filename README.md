@@ -61,6 +61,9 @@ ZSH_FOUR_FIFTHS='⅘'
 ZSH_FIVE_SIXTHS='⅚'
 ZSH_FIVE_EIGHTHS='⅝'
 ZSH_SEVEN_EIGHTHS='⅞'
+
+ZSH_SPIN_CIRCLE=('◐' '◓' '◑' '◒')
+ZSH_SPIN_PLAIN=('-' '\' '|' '/')
 ```
 
 
