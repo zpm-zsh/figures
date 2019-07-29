@@ -2,5 +2,5 @@
 
 source "${0:h}/symbols.zsh"
 
-export ZSH_SPIN_CIRCLE=('◐' '◓' '◑' '◒')
-export ZSH_SPIN_PLAIN=('-' '\' '|' '/')
+ZSH_SPIN_CIRCLE=('◐' '◓' '◑' '◒')
+ZSH_SPIN_PLAIN=('+' 'x' '+' 'x')
